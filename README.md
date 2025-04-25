@@ -56,5 +56,6 @@ JWT_SECRET=abcxyz
 MONGO_URI=mongodb://localhost:27017/leaveManagement
 ACCESS_KEY_ID=your_aws_access_key
 SECRET_ACCESS_KEY=your_aws_secret
+![Screenshot from 2025-04-25 12-04-28](https://github.com/user-attachments/assets/05f429dc-3112-4fb3-8178-4714166f8f2a)
 
 
