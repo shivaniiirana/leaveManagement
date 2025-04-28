@@ -2,7 +2,15 @@
 
 A full-featured user onboarding and leave management system built with Node.js, Nestjs, MongoDB, JWT, Redis, Nodemailer, and logging tools like Winston.
 
----
+---![Screenshot from 2025-04-25 13-11-17](https://github.com/user-attachments/assets/13ff49ee-928b-41ca-bd1b-ae7a597d6cab)
+
+![Screenshot from 2![Screenshot from 2025-04-25 12-04-28](https://github.com/user-attachments/assets/b9748ede-0626-480b-80cc-3e2449e73a22)
+025-04-25 13-28-04](https://github.com/user-attachments/assets/4d81666f-ca25-4910-b560-c6d5ea29c0eb)
+![Screenshot from 2025-04-25 12-21-16](https://github.com/user-attachments/assets/2177219c-e551-486b-8228-c255d821e7dd)![Screenshot ![Screenshot from 2025-04-25 12-40-24](https://github.com/user-attachments/assets/026b251b-f71f-44f6-9d81-c20c4b822103)
+from 2025-04-25 12-31-26](https://github.com/user-attachments/assets/532c4d76-125e-4b3e-a3c1-7c5fd1b03a59)
+![Screenshot from 2025-04-25 12-49-41](https://github.com/user-attachments/assets/1541e89f-8fc5-45da-a1cc-dd7f8057f3bb)
+
+
 
 ## 🚀 Tech Stack
 
